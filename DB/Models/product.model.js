@@ -6,14 +6,12 @@ const productSchema = new Schema(
             type: String,
             require: true,
         },
+
         description: {
             type: String,
             require: true,
         },
-        price: {
-            type: Number,
-            require: true,
-        },
+
         images: [
             {
                 type: String,
@@ -21,20 +19,28 @@ const productSchema = new Schema(
                 require: true,
             },
         ],
+
         sizes: [
             {
                 size: String,
-                unique: true,
+                price: Number,
                 colors: [
                     {
                         name: String,
-                        require: true,
-                        unique: true,
                         quantity: Number,
                     },
                 ],
+                // require: true, !CHECK
             },
         ],
+
+        category: {
+            type: String,
+            require: true,
+        },
+
+        bestSeller: Boolean,
+        topRated: Boolean,
     },
     { timestamps: true }
 );
