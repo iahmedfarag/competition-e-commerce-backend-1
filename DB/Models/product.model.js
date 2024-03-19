@@ -4,19 +4,24 @@ const productSchema = new Schema(
     {
         name: {
             type: String,
-            require: true,
+            required: true,
         },
 
         description: {
             type: String,
-            require: true,
+            required: true,
         },
 
         images: [
             {
-                type: String,
-                id: String,
-                require: true,
+                secure_url: {
+                    type: String,
+                    required: true,
+                },
+                public_id: {
+                    type: String,
+                    required: true,
+                },
             },
         ],
 
@@ -27,16 +32,28 @@ const productSchema = new Schema(
                 colors: [
                     {
                         name: String,
+                        hex: String,
                         quantity: Number,
                     },
                 ],
-                // require: true, !CHECK
             },
         ],
 
         category: {
+            type: Schema.Types.ObjectId,
+            required: true,
+            ref: "Category",
+        },
+
+        customID: {
             type: String,
-            require: true,
+            required: true,
+        },
+
+        slug: {
+            type: String,
+            required: true,
+            unique: true,
         },
 
         bestSeller: Boolean,

@@ -1,0 +1,543 @@
+"name": "Cardigan longsleeve",
+{
+    "categoryID": "65f9f7f5aba3ac645b596434",
+    "name": "Cardigan longsleeve",
+    "description": "Vehicula quisque mollis senectus sit viverra si fames molestie nibh dui ultrices quis sodales orci mi turpis neque aptent et felis vitae at pretium vestibulum malesuada nisl himenaeos",
+    "sizes": [
+        {
+            "size": "0-1",
+            "price": 66.0,
+            "colors": [
+                {
+                    "name": "postal red",
+                    "hex": "DA291C",
+                    "quantity": 2
+                },
+                {
+                    "name": "green",
+                    "hex": "808080",
+                    "quantity": 3
+                },
+                {
+                    "name": "graphite",
+                    "hex": "41424C",
+                    "quantity": 6
+                }
+            ]
+        },
+        {
+            "size": "1-2",
+            "price": 66.0,
+            "colors": [
+                {
+                    "name": "postal red",
+                    "hex": "DA291C",
+                    "quantity": 2
+                },
+                {
+                    "name": "green",
+                    "hex": "808080",
+                    "quantity": 3
+                },
+                {
+                    "name": "graphite",
+                    "hex": "41424C",
+                    "quantity": 6
+                }
+            ]
+        },
+        {
+            "size": "2-3",
+            "price": 66.0,
+            "colors": [
+                {
+                    "name": "postal red",
+                    "hex": "DA291C",
+                    "quantity": 2
+                },
+                {
+                    "name": "green",
+                    "hex": "808080",
+                    "quantity": 3
+                },
+                {
+                    "name": "graphite",
+                    "hex": "41424C",
+                    "quantity": 6
+                }
+            ]
+        }
+    ]
+}
+
+"name": "Girl blouse",
+{
+    "categoryID": "65f9f7f5aba3ac645b596434",
+    "name": "Girl blouse",
+    "description": "Aptent penatibus dolor netus vulputate convallis egestas rutrum non sodales bibendum torquent mattis nostra curae nascetur felis conubia mauris congue enim fringilla pulvinar sem vivamus lectus",
+    "sizes": [
+        {
+            "size": "0-1",
+            "price": 38.0,
+            "colors": [
+                {
+                    "name": "postal red",
+                    "hex": "DA291C",
+                    "quantity": 2
+                },
+                {
+                    "name": "white",
+                    "hex": "fff",
+                    "quantity": 3
+                },
+                {
+                    "name": "yellow",
+                    "hex": "FFFF00",
+                    "quantity": 6
+                }
+            ]
+        },
+        {
+            "size": "1-2",
+            "price": 44.0,
+            "colors": [
+                {
+                    "name": "postal red",
+                    "hex": "DA291C",
+                    "quantity": 2
+                },
+                {
+                    "name": "white",
+                    "hex": "fff",
+                    "quantity": 3
+                },
+                {
+                    "name": "yellow",
+                    "hex": "FFFF00",
+                    "quantity": 6
+                }
+            ]
+        },
+        {
+            "size": "2-3",
+            "price": 46.0,
+            "colors": [
+                {
+                    "name": "postal red",
+                    "hex": "DA291C",
+                    "quantity": 2
+                },
+                {
+                    "name": "white",
+                    "hex": "fff",
+                    "quantity": 3
+                },
+                {
+                    "name": "yellow",
+                    "hex": "FFFF00",
+                    "quantity": 6
+                }
+            ]
+        }
+    ]
+}
+
+"name": "Love Blouse",
+{
+    "categoryID": "65f9f7f5aba3ac645b596434",
+    "name": "Love Blouse",
+    "description": "Orci interdum nec placerat dapibus aliquet massa pharetra laoreet mi mattis neque augue cursus nam et vestibulum facilisis platea tellus",
+    "sizes": [
+        {
+            "size": "0-1",
+            "price": 32.0,
+            "colors": [
+                {
+                    "name": "postal red",
+                    "hex": "DA291C",
+                    "quantity": 2
+                },
+                {
+                    "name": "white",
+                    "hex": "fff",
+                    "quantity": 3
+                },
+                {
+                    "name": "yellow",
+                    "hex": "FFFF00",
+                    "quantity": 6
+                }
+            ]
+        },
+        {
+            "size": "1-2",
+            "price": 34.0,
+            "colors": [
+                {
+                    "name": "postal red",
+                    "hex": "DA291C",
+                    "quantity": 2
+                },
+                {
+                    "name": "white",
+                    "hex": "fff",
+                    "quantity": 3
+                },
+                {
+                    "name": "yellow",
+                    "hex": "FFFF00",
+                    "quantity": 6
+                }
+            ]
+        },
+        {
+            "size": "2-3",
+            "price": 38.0,
+            "colors": [
+                {
+                    "name": "postal red",
+                    "hex": "DA291C",
+                    "quantity": 2
+                },
+                {
+                    "name": "white",
+                    "hex": "fff",
+                    "quantity": 3
+                },
+                {
+                    "name": "yellow",
+                    "hex": "FFFF00",
+                    "quantity": 6
+                }
+            ]
+        }
+    ]
+}
+
+"name": "Sleeveless Cardigan",
+{
+    "categoryID": "65f9f7f5aba3ac645b596434",
+    "name": "Sleeveless Cardigan",
+    "description": "Curae donec amet duis euismod nisl etiam mus proin a fames praesent orci tortor non vel",
+    "sizes": [
+        {
+            "size": "0-1",
+            "price": 32.0,
+            "colors": [
+                {
+                    "name": "green",
+                    "hex": "00FF00",
+                    "quantity": 2
+                },
+                {
+                    "name": "grey",
+                    "hex": "808080",
+                    "quantity": 3
+                },
+                {
+                    "name": "yellow",
+                    "hex": "FFFF00",
+                    "quantity": 6
+                },
+                {
+                    "name": "graphite",
+                    "hex": "41424C",
+                    "quantity": 6
+                }
+            ]
+        },
+        {
+            "size": "1-2",
+            "price": 34.0,
+            "colors": [
+                {
+                    "name": "green",
+                    "hex": "00FF00",
+                    "quantity": 2
+                },
+                {
+                    "name": "grey",
+                    "hex": "808080",
+                    "quantity": 3
+                },
+                {
+                    "name": "yellow",
+                    "hex": "FFFF00",
+                    "quantity": 6
+                },
+                {
+                    "name": "graphite",
+                    "hex": "41424C",
+                    "quantity": 6
+                }
+            ]
+        },
+        {
+            "size": "2-3",
+            "price": 38.0,
+            "colors": [
+                {
+                    "name": "yellow",
+                    "hex": "FFFF00",
+                    "quantity": 6
+                },
+                {
+                    "name": "graphite",
+                    "hex": "41424C",
+                    "quantity": 6
+                }
+            ]
+        }
+    ]
+}
+
+"name": "Sweater",
+{
+    "categoryID": "65f9f7f5aba3ac645b596434",
+    "name": "Sweater",
+    "description": "Curabitur duis magnis conubia nec potenti blandit malesuada ligula id cras dui mauris tellus faucibus morbi natoque dictum amet convallis ante",
+    "sizes": [
+        {
+            "size": "62/68cm",
+            "price": 142.0,
+            "colors": [
+                {
+                    "name": "green",
+                    "hex": "00FF00",
+                    "quantity": 2
+                },
+                {
+                    "name": "grey",
+                    "hex": "808080",
+                    "quantity": 3
+                },
+                {
+                    "name": "postal red",
+                    "hex": "DA291C",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "size": "74/80cm",
+            "price": 146.0,
+            "colors": [
+                {
+                    "name": "green",
+                    "hex": "00FF00",
+                    "quantity": 2
+                },
+                {
+                    "name": "grey",
+                    "hex": "808080",
+                    "quantity": 3
+                },
+                {
+                    "name": "postal red",
+                    "hex": "DA291C",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "size": "86/92cm",
+            "price": 152.0,
+            "colors": [
+                {
+                    "name": "green",
+                    "hex": "00FF00",
+                    "quantity": 2
+                },
+                {
+                    "name": "grey",
+                    "hex": "808080",
+                    "quantity": 3
+                },
+                {
+                    "name": "postal red",
+                    "hex": "DA291C",
+                    "quantity": 2
+                }
+            ]
+        }
+    ]
+}
+
+"name": "Baby Socks",
+{
+    "categoryID": "65f9f7f5aba3ac645b596434",
+    "name": "Baby Socks",
+    "description": "Curabitur duis magnis conubia nec potenti blandit malesuada ligula id cras dui mauris tellus faucibus morbi natoque dictum amet convallis ante",
+    "sizes": [
+        {
+            "size": "0-1",
+            "price": 32.0,
+            "colors": [
+                {
+                    "name": "postal red",
+                    "hex": "DA291C",
+                    "quantity": 2
+                },
+                {
+                    "name": "grey",
+                    "hex": "808080",
+                    "quantity": 3
+                },
+                {
+                    "name": "graphite",
+                    "hex": "41424C",
+                    "quantity": 6
+                }
+            ]
+        },
+        {
+            "size": "1-2",
+            "price": 34.0,
+            "colors": [
+                {
+                    "name": "grey",
+                    "hex": "808080",
+                    "quantity": 3
+                },
+                {
+                    "name": "graphite",
+                    "hex": "41424C",
+                    "quantity": 6
+                }
+            ]
+        },
+        {
+            "size": "2-3",
+            "price": 38.0,
+            "colors": [
+                {
+                    "name": "grey",
+                    "hex": "808080",
+                    "quantity": 3
+                },
+        
+            ]
+        }
+    ]
+}
+
+"name": "Baby slippers",
+{
+    "categoryID": "65f9f7f5aba3ac645b596434",
+    "name": "Baby slippers",
+    "description": "Parturient metus sollicitudin cras dis facilisi venenatis urna tempus placerat neque vestibulum auctor interdum leo litora dolor ullamcorper dignissim nisl pharetra suscipit amet vulputate si orci",
+    "sizes": [
+        {
+            "size": "0-1",
+            "price": 11.0,
+            "colors": [
+                {
+                    "name": "yellow",
+                    "hex": "FFFF00",
+                    "quantity": 6
+                },
+                {
+                    "name": "graphite",
+                    "hex": "41424C",
+                    "quantity": 6
+                },
+                {
+                    "name": "white",
+                    "hex": "fff",
+                    "quantity": 3
+                }
+            ]
+        },
+        {
+            "size": "1-2",
+            "price": 13.0,
+            "colors": [
+                {
+                    "name": "graphite",
+                    "hex": "41424C",
+                    "quantity": 6
+                },
+                {
+                    "name": "white",
+                    "hex": "fff",
+                    "quantity": 3
+                }
+            ]
+        },
+        {
+            "size": "2-3",
+            "price": 16.0,
+            "colors": [
+                {
+                    "name": "graphite",
+                    "hex": "41424C",
+                    "quantity": 6
+                },
+                {
+                    "name": "white",
+                    "hex": "fff",
+                    "quantity": 3
+                }
+        
+            ]
+        }
+    ]
+}
+
+"name": "Bear boots",
+{
+    "categoryID": "65f9f7f5aba3ac645b596434",
+    "name": "Bear boots",
+    "description": "Imperdiet egestas sagittis proin euismod magnis pretium lacinia facilisis etiam ex litora consectetur lectus si condimentum felis torquent risus at ac integer per",
+    "sizes": [
+        {
+            "size": "0-1",
+            "price": 25.0,
+            "colors": [
+                {
+                    "name": "green",
+                    "hex": "808080",
+                    "quantity": 3
+                },
+                {
+                    "name": "graphite",
+                    "hex": "41424C",
+                    "quantity": 6
+                },
+                {
+                    "name": "yellow",
+                    "hex": "FFFF00",
+                    "quantity": 6
+                }
+            ]
+        },
+        {
+            "size": "1-2",
+            "price": 27.0,
+            "colors": [
+                {
+                    "name": "green",
+                    "hex": "808080",
+                    "quantity": 3
+                },
+                {
+                    "name": "graphite",
+                    "hex": "41424C",
+                    "quantity": 6
+                },
+            ]
+        },
+        {
+            "size": "2-3",
+            "price": 28.0,
+            "colors": [
+                {
+                    "name": "green",
+                    "hex": "808080",
+                    "quantity": 3
+                }
+        
+            ]
+        }
+    ]
+}

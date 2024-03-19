@@ -4,12 +4,22 @@ const categorySchema = new Schema(
     {
         name: {
             type: String,
-            require: true,
+            required: true,
             unique: true,
         },
         icon: {
             type: String,
-            require: true,
+            required: true,
+        },
+        customID: {
+            type: String,
+            required: true,
+            unique: true,
+        },
+        slug: {
+            type: String,
+            required: true,
+            unique: true,
         },
     },
     { timestamps: true }
