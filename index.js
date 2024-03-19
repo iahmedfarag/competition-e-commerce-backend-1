@@ -19,7 +19,8 @@ app.get("/", (req, res) => {
 
 app.use("/products", productsRouter);
 app.use("/categories", categoriesRouter);
-app.use("*", res.json({ status: "not found", message: "no page found" }));
+
+app.get("*", res.json({ status: "not found", message: "no page found" }));
 
 app.listen(3000 || process.env.PORT, () => {
     console.log("server is listening on port 3000");
